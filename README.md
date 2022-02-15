@@ -1,6 +1,11 @@
 # resilience-education
 Free-to-use (CC-BY-SA) multimedia resources for undergraduate education in ecological resilience theory (ERT)
 
+To submit feedback: 
+1) email Katharine Hogan at katharine.hogan@huskers.unl.edu 
+or
+2) fill out the anonymous Google form at: https://bit.ly/3gOeLDT
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
