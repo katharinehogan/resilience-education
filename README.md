@@ -4,7 +4,7 @@ Free-to-use (CC-BY-SA) multimedia resources for undergraduate education in ecolo
 Resources are current as of July 21st, 2022. The resources in this repository are not currently being actively developed.
 
 To submit feedback: 
-1) email Katharine Hogan at katharine.hogan@huskers.unl.edu 
+1) email Katharine Hogan at kfehogan@gmail.com
 or
 2) fill out the anonymous Google form at: https://bit.ly/3gOeLDT
 
