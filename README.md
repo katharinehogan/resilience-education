@@ -1,7 +1,7 @@
 # resilience-education
-Free-to-use (CC-BY-SA) multimedia resources for undergraduate education in ecological resilience theory (ERT).
+Free-to-use (CC-BY-SA) multimedia resources for undergraduate education in ecological resilience theory (ERT). For the accompanying open-access publication on these resources, please visit https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4245.
 
-Resources are current as of July 21st, 2022. The resources in this repository are not currently being actively developed.
+Resources are current as of July 21st, 2022. The resources in this repository are not currently being actively developed. 
 
 To submit feedback: 
 1) email Katharine Hogan at kfehogan@gmail.com
